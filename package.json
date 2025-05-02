@@ -1,0 +1,12 @@
+{
+  "name": "js-bucket2item",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bucket2item.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0"
+}
